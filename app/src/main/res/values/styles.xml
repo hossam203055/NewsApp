@@ -1,0 +1,57 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="titleTextStyle">
+        <item name="android:textSize">@dimen/titleTextDimen</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/titleTextColor</item>
+    </style>
+
+    <style name="sectionTextStyle">
+        <item name="android:textSize">@dimen/sectionTextDimen</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textColor">@color/titleTextColor</item>
+    </style>
+
+    <style name="dateTextStyle">
+        <item name="android:textSize">@dimen/sectionTextDimen</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:textColor">@color/dateTextColor</item>
+    </style>
+
+    <style name="pillerNameTextStyle">
+        <item name="android:textSize">@dimen/sectionTextDimen</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textColor">@color/titleTextColor</item>
+    </style>
+
+    <style name="authorNameTextStyle">
+        <item name="android:textSize">@dimen/sectionTextDimen</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textColor">@color/titleTextColor</item>
+    </style>
+
+    <style name="hideItemsTextStyle">
+        <item name="android:textSize">@dimen/hideItemsTextDimen</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_margin">@dimen/marginDimen</item>
+
+    </style>
+
+</resources>

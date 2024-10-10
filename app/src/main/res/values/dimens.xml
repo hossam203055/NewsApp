@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginDimen">5dp</dimen>
+    <dimen name="titleTextDimen">20sp</dimen>
+    <dimen name="sectionTextDimen">15sp</dimen>
+    <dimen name="detailsTextDimen">12sp</dimen>
+    <dimen name="authorNameTextDimen">17sp</dimen>
+    <dimen name="hideItemsTextDimen">25sp</dimen>
+</resources>

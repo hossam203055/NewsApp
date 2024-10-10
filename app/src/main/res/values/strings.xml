@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="messageDataNotFound">Data not found</string>
+    <string name="messageErrorConnection">Error connection</string>
+    <string name="messageCouldntGetJSON">Couldn\'t get json from server</string>
+    <string name="messageNetworkNotAvailable">Network isn\'t available</string>
+    <string name="settingsMenu">Settings</string>
+    <string name="showItemsText">Select to show items</string>
+    <string name="authorText">Author</string>
+    <string name="dateText">Date</string>
+    <string name="titleText">Title</string>
+    <string name="pillerText">Piller</string>
+    <string name="sectionText">Section</string>
+    <string name="submitText">Submit</string>
+</resources>
